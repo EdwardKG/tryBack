@@ -1,0 +1,7 @@
+{
+	"mongoUri":"mongodb+srv://Edward20:1112131415@cluster0.10pbu.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+	"port":8080,
+	"frontPort":3000,
+	"email":"eduard.zadorozhnsj20102002@gmail.com",
+	"passwordEmail":"1112131415"
+}
